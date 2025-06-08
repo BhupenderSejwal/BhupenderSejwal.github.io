@@ -29,6 +29,8 @@ We trained a machine learning model using:
 You can view the project notebook online using GitHub Pages:
 
 👉 **[Open Project Notebook](https://bhupendersejwal.github.io/Assignment_1.html)**
+👉 **[Click here to view the full HTML notebook](https://bhupendersejwal.github.io/Assignment_1.html)**  
+*(Hosted using GitHub Pages)*
 
 ---
 
